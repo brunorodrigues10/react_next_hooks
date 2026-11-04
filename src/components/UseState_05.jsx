@@ -1,4 +1,3 @@
-import React from "react";
 import { useState } from "react";
 import UseState_05a from "./UseState_05a";
 
