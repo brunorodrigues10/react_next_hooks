@@ -10,7 +10,8 @@ import './App.css'
 // import HookState09 from "./components/UseState_09"
 // import HookState10 from "./components/UseState_10"
 // import HookState11 from "./components/UseState_11"
-import HookState12 from "./components/UseState_12"
+// import HookState12 from "./components/UseState_12"
+import HookState13 from "./components/UseState_13"
 
 
 function App() {
@@ -28,7 +29,8 @@ function App() {
       {/* <HookState09 /> */}
       {/* <HookState10 /> */}
       {/* <HookState11 /> */}
-      <HookState12 />
+      {/* <HookState12 /> */}
+      <HookState13 />
     </>
   )
 }
