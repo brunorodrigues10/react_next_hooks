@@ -18,10 +18,6 @@ export default () => {
             {tab == 1 && <p>Tab 1</p>}
             {tab == 2 && <p>Tab 2</p>}
             {tab == 3 && <p>Tab 3</p>}
-
-
-
-
         </>
 
     )
